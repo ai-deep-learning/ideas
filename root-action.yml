@@ -1,7 +1,7 @@
 Action:
-    icon: https://docs.nasdanika.org/images/nasdanika-logo.png
-    text: Nasdanika Templates
-    location: https://github.com/Nasdanika-Templates
+    icon: https://docs.nasdanika.org/images/ai-deep-learning.png
+    text: AI Deep Learning
+    location: https://github.com/ai-deep-learning
     children:
       - Action:
           location: ${base-uri}search.html
